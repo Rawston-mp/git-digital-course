@@ -28,3 +28,9 @@ git push -u origin main
 git pull
 git push
 git fetch
+
+### Git branch
+bash
+git branch nome-da-branch
+git log --oneline --decorate   
+git checkout nome-da-branch
