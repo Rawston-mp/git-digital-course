@@ -29,7 +29,15 @@ git pull
 git push
 git fetch
 
+<<<<<<< HEAD
 ### Merging branches
 bash
 git checkout main
 git merge feature/new-feature
+=======
+### Git branch
+bash
+git branch nome-da-branch
+git log --oneline --decorate   
+git checkout nome-da-branch
+>>>>>>> testing
