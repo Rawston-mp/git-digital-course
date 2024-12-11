@@ -24,3 +24,6 @@ bash
 git remote add origin https://github.com/fulanodetal/repositorio.git
 git push -u origin main
 
+## Salvando alterações no Git
+git pull
+git push
