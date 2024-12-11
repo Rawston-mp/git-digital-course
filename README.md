@@ -28,3 +28,8 @@ git push -u origin main
 git pull
 git push
 git fetch
+
+### Merging branches
+bash
+git checkout main
+git merge feature/new-feature
